@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy un Ingeniero en Ciberseguridad y Líder de Equipo MOC en Condor Business Solutions. Apasionado por la protección de datos y la seguridad informática. Me encanta explorar las últimas tendencias y tecnologías en ciberseguridad. También disfruto realizando pruebas de penetración de sistemas en Hack The Box. Siempre en busca de nuevos desafíos y oportunidades para fortalecer la seguridad digital. ¡Conéctate y hablemos sobre ciberseguridad, protección de datos y pruebas de penetración!
+¡Hola! Soy un Ingeniero en Ciberseguridad. Apasionado por la protección de datos y la seguridad informática. Me encanta explorar las últimas tendencias y tecnologías en ciberseguridad. También disfruto realizando pruebas de penetración de sistemas en Hack The Box. Siempre en busca de nuevos desafíos y oportunidades para fortalecer la seguridad digital. ¡Conéctate y hablemos sobre ciberseguridad, protección de datos y pruebas de penetración!
 
 
 # 💻 Tech Stack:
