@@ -13,8 +13,26 @@
   </kbd>
 </p>
 
-# 💫 About Me:
+<!-- Outer collapsible -->  
+<details>
+   <summary><b>↕️ Expand for more!</b></summary>
+  
+   <br>
+
+
+<!-- About Section -->
+<details>
+  <summary><b>👤 About</b></summary>
+    <p>
+      <img align="right" width="250" src="https://github.com/Lissy93/Lissy93/raw/master/assets/alicia-sykes_profile-pic.png" alt="Alicia Sykes" />
+      
+<blockquote>
+
 ¡Hola! Soy un Ingeniero en Ciberseguridad. Apasionado por la protección de datos y la seguridad informática. Me encanta explorar las últimas tendencias y tecnologías en ciberseguridad. También disfruto realizando pruebas de penetración de sistemas en Hack The Box. Siempre en busca de nuevos desafíos y oportunidades para fortalecer la seguridad digital. ¡Conéctate y hablemos sobre ciberseguridad, protección de datos y pruebas de penetración!
+
+</blockquote>
+
+---
 
 <!-- Tech Stack --> 
 <details>
@@ -32,6 +50,7 @@
 **Image Manipulation** | [![GIMP](https://img.shields.io/static/v1?label=&message=GIMP&color=657D8B&logo=gimp&logoColor=FFFFFF)](https://www.gimp.org/) [![Inkscape](https://img.shields.io/static/v1?label=&message=Inkscape&color=e0e0e0&logo=inkscape&logoColor=080A13)](https://inkscape.org/)
 **Operating System** | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=FFFFFF)](https://www.linux.org/)
 
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TheSL18&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -41,6 +60,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=TheSL18&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center"><a href="https://mrhacker.space/"><sup><sub>mrhacker.space</sub></sup></a></p>
 
