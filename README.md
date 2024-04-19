@@ -24,7 +24,6 @@
 <details>
   <summary><b>👤 About</b></summary>
     <p>
-      <img align="right" width="250" src="https://github.com/Lissy93/Lissy93/raw/master/assets/alicia-sykes_profile-pic.png" alt="Alicia Sykes" />
       
 <blockquote>
 
