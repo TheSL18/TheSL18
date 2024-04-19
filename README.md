@@ -1,3 +1,18 @@
+<!-- Title -->
+<h1 align="center" title="... y me alegro de verte aquí :)">👋 𝙷ola! Soy Kevin</h1>
+
+<!-- Contact and keys -->
+<p align="center">
+<a href="mailto:david.munozm@proton.me" title="Email Address"><code>david dot munozm at proton dot me</code></a> │ <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/2B9D22B41F2AF1042BFCE73A3CA0B9DF1BE7CE09" title="PGP Public Key"><code>3CA0 B9DF 1BE7 CE09</code></a> │ <a href="" title="Matrix User ID"><code>@</code></a>
+</p>
+
+<!-- Socials -->
+<p align="center">
+   <kbd>
+  <a href="https://www.linkedin.com/in/kevin-mu%C3%B1oz-289830274" title="LinkedIn - Kevin Muñoz"><img src="https://img.shields.io/badge/-Kevin_Muñoz-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+  </kbd>
+</p>
+
 # 💫 About Me:
 ¡Hola! Soy un Ingeniero en Ciberseguridad. Apasionado por la protección de datos y la seguridad informática. Me encanta explorar las últimas tendencias y tecnologías en ciberseguridad. También disfruto realizando pruebas de penetración de sistemas en Hack The Box. Siempre en busca de nuevos desafíos y oportunidades para fortalecer la seguridad digital. ¡Conéctate y hablemos sobre ciberseguridad, protección de datos y pruebas de penetración!
 
