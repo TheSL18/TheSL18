@@ -1,25 +1,25 @@
 <!-- Title -->
-<h1 align="center" title="... y me alegro de verte aquí :)">👋 𝙷ola! Soy Kevin</h1>
+<h1 align="center" title="...and I'm happy to see you here :)">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Kevin</h1>
 
 <!-- Contact and keys -->
 <p align="center">
-<a href="mailto:david.munozm@proton.me" title="Email Address"><code>david dot munozm at proton dot me</code></a> │ <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/2B9D22B41F2AF1042BFCE73A3CA0B9DF1BE7CE09" title="PGP Public Key"><code>3CA0 B9DF 1BE7 CE09</code></a> │ <a href="" title="Matrix User ID"><code>@</code></a>
+<a href="mailto:david.munozm@proton.me" title="Email Address"><code>david dot munozm at proton dot me</code></a> │ <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/8862AB060D18A07560CFD5E5E5616555DD4EDAAE" title="PGP Public Key"><code>E561 6555 DD4E DAAE</code></a> │ <a href="https://matrix.to/#/@" title="Matrix User ID"><code></code></a>
 </p>
 
 <!-- Socials -->
 <p align="center">
    <kbd>
-  <a href="https://www.linkedin.com/in/kevin-mu%C3%B1oz-289830274" title="LinkedIn - Kevin Muñoz"><img src="https://img.shields.io/badge/-Kevin_Muñoz-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/kevin-mu%C3%B1oz-289830274" title="LinkedIn - Kevin Muñoz"><img src="https://img.shields.io/badge/-Kevin_Muñoz-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
   </kbd>
 </p>
 
+   
 <!-- Outer collapsible -->  
 <details>
    <summary><b>↕️ Expand for more!</b></summary>
   
    <br>
-
-
+   
 <!-- About Section -->
 <details>
   <summary><b>👤 About</b></summary>
@@ -30,13 +30,17 @@
 ¡Hola! Soy un Ingeniero en Ciberseguridad. Apasionado por la protección de datos y la seguridad informática. Me encanta explorar las últimas tendencias y tecnologías en ciberseguridad. También disfruto realizando pruebas de penetración de sistemas en Hack The Box. Siempre en busca de nuevos desafíos y oportunidades para fortalecer la seguridad digital. ¡Conéctate y hablemos sobre ciberseguridad, protección de datos y pruebas de penetración!
 
 </blockquote>
+    
+----
 
----
+</p>
+</details>
 
-<!-- Tech Stack --> 
+
+<!-- Tech Stack -->  
 <details>
   <summary><b>🛠️ Tech Stack</b></summary>
-   <p>
+    <p>
 
 | **Category** | **Technologies** |
 | - | - |
@@ -48,19 +52,9 @@
 **Monitoring** | [![Datadog](https://img.shields.io/static/v1?label=&message=Datadog&color=632CA6&logo=datadog&logoColor=FFFFFF)](https://www.datadoghq.com/)
 **Image Manipulation** | [![GIMP](https://img.shields.io/static/v1?label=&message=GIMP&color=657D8B&logo=gimp&logoColor=FFFFFF)](https://www.gimp.org/) [![Inkscape](https://img.shields.io/static/v1?label=&message=Inkscape&color=e0e0e0&logo=inkscape&logoColor=080A13)](https://inkscape.org/)
 **Operating System** | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=FFFFFF)](https://www.linux.org/)
+      
+----      
 
----
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TheSL18&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TheSL18&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSL18&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-[![](https://visitcount.itsvg.in/api?id=TheSL18&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<p align="center"><a href="https://mrhacker.space/"><sup><sub>mrhacker.space</sub></sup></a></p>
-
+----
